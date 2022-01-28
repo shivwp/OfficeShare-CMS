@@ -1,0 +1,261 @@
+.donut-size {
+  font-size: 8em;
+  margin-bottom: 10px
+}
+
+.pie-wrapper {
+  position: relative;
+  width: 1em;
+  height: 1em;
+  margin: 0px auto;
+}
+
+.pie-wrapper .pie {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  clip: rect(0, 1em, 1em, 0.5em);
+}
+
+.pie-wrapper .half-circle {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  border: 0.1em solid #fc5a5a;
+  border-radius: 50%;
+  clip: rect(0em, 0.5em, 1em, 0em);
+}
+
+.pie-wrapper .right-side {
+  transform: rotate(0deg);
+}
+
+.pie-wrapper .label {
+  position: absolute;
+  top:26%;
+  right: 0.4em;
+  bottom: 0.4em;
+  left: 0.4em;
+  display: block;
+  background: none;
+  border-radius: 50%;
+  color: #000;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 1.6em;
+  text-align: center;
+  cursor: default;
+  z-index: 2;
+}
+
+.pie-wrapper .smaller {
+  padding-bottom: 20px;
+   color: #000;
+  font-weight: 500;
+  font-size: .45em;
+  vertical-align: super;
+}
+
+.pie-wrapper .shadow {
+  width: 100%;
+  height: 100%;
+  border: 0.1em solid #ff9797;
+  border-radius: 50%;
+}
+
+
+
+
+
+.donut-size1 {
+  font-size: 8em;
+  margin-bottom: 10px
+}
+
+.pie-wrapper1 {
+  position: relative;
+  width: 1em;
+  height: 1em;
+  margin: 0px auto;
+}
+
+.pie-wrapper1 .pie1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  clip: rect(0, 1em, 1em, 0.5em);
+}
+
+.pie-wrapper1 .half-circle1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  border: 0.1em solid #4f82a7;
+  border-radius: 50%;
+  clip: rect(0em, 0.5em, 1em, 0em);
+}
+
+.pie-wrapper1 .right-side1 {
+  transform: rotate(0deg);
+}
+
+.pie-wrapper1 .label {
+  position: absolute;
+  top:26%;
+  right: 0.4em;
+  bottom: 0.4em;
+  left: 0.4em;
+  display: block;
+  background: none;
+  border-radius: 50%;
+  color: #000;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 1.6em;
+  text-align: center;
+  cursor: default;
+  z-index: 2;
+}
+
+.pie-wrapper1 .smaller1 {
+  padding-bottom: 20px;
+   color: #000;
+  font-weight: 500;
+  font-size: .45em;
+  vertical-align: super;
+}
+
+.pie-wrapper1 .shadow1 {
+  width: 100%;
+  height: 100%;
+  border: 0.1em solid #0d324d;
+  border-radius: 50%;
+}
+
+
+
+
+
+
+.donut-size2 {
+  font-size: 8em;
+  margin-bottom: 10px
+}
+
+.pie-wrapper2 {
+  position: relative;
+  width: 1em;
+  height: 1em;
+  margin: 0px auto;
+}
+
+.pie-wrapper2.pie2{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  clip: rect(0, 1em, 1em, 0.5em);
+}
+
+.pie-wrapper2 .half-circle12 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  border: 0.1em solid #ffdf82;
+  border-radius: 50%;
+  clip: rect(0em, 0.5em, 1em, 0em);
+}
+
+.pie-wrapper2 .right-side2 {
+  transform: rotate(0deg);
+}
+
+.pie-wrapper2 .label {
+  position: absolute;
+  top:26%;
+  right: 0.4em;
+  bottom: 0.4em;
+  left: 0.4em;
+  display: block;
+  background: none;
+  border-radius: 50%;
+  color: #000;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 1.6em;
+  text-align: center;
+  cursor: default;
+  z-index: 2;
+}
+
+.pie-wrapper2 .smaller2 {
+  padding-bottom: 20px;
+   color: #000;
+  font-weight: 500;
+  font-size: .45em;
+  vertical-align: super;
+}
+
+.pie-wrapper2 .shadow2 {
+  width: 100%;
+  height: 100%;
+  border: 0.1em solid #fbbe07;
+  border-radius: 50%;
+}
+
+
+
+span.num {
+    font-size: 20px;
+    font-family: poppins;
+    font-weight: bold;
+}
+.num {
+    font-size: 20px;
+    font-family: poppins;
+    font-weight: bold;
+}
+.pie-wrapper .smaller {
+    /* padding-bottom: 26px; */
+    color: #828282;
+    font-weight: bold;
+    font-size: 14px;
+    /* vertical-align: super; */
+    font-family: poppins;
+}
+.pie-wrapper1 .smaller1 {
+    /* padding-bottom: 26px; */
+    color: #828282;
+    font-weight: bold;
+    font-size: 14px;
+    /* vertical-align: super; */
+    font-family: poppins;
+}
+.pie-wrapper2 .smaller2 {
+    /* padding-bottom: 26px; */
+    color: #828282;
+    font-weight: bold;
+    font-size: 14px;
+    /* vertical-align: super; */
+    font-family: poppins;
+}
+p.smaller {
+  margin: -16px;
+}
+p.smaller1 {
+  margin: -16px;
+}
+p.smaller2 {
+  margin: -16px;
+}
